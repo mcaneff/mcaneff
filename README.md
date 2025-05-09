@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, I’m **Mike**
 
-<!--
-**mcaneff/mcaneff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Aerospace Engineering Master's student with a background in Computer Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+
+- **Thrust-Vector-Controlled Rocket**  
+  My thesis project — a model rocket with AI-assisted PID control for real-time flight stabilization. Built using Simulink, MATLAB, and embedded sensors (IMU, GPS, LoRa).
+
+- **The Books Idea**  
+  An automated tool that extracts the mentioned books from podcast episodes using Whisper + NLP, enriches them with metadata, and auto-generates Hugo posts with affiliate links. Check it out here: [Podcasts-to-Books](https://mcaneff.github.io/podcasts-to-books/)
+
+
+## 🧠 Current Interests
+
+- Control Systems, Orbital Mechanics, and Flight Dynamics  
+- Reinforcement Learning and Symbolic AI for aerospace applications  
+- Arduino telemetry systems, LoRa communications, GPS/IMU data fusion  
+- 3D printing for rapid prototyping of aerospace hardware  
+
+
+## 📚 Currently Learning
+
+- Embedded C for low-latency microcontroller control loops  
+- Simscape Multibody + MATLAB PID tuning  
+
+---
+
+## 📫 Contact Me
+- 🌐 Portfolio: *Coming soon — Hugo site in progress*  
+- 🛰️ Let's build something that lasts.
+---
+
+Whatever you can do, or dream you can, begin it. - W. H. Murray
