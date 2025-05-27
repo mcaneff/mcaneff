@@ -29,7 +29,7 @@ I'm an Aerospace Engineering Master's student with a background in Computer Engi
 ---
 
 ### Contact Me
-- 🌐 Portfolio: *Coming soon — Hugo site in progress*  
+- 🌐 Portfolio: https://mcaneff.github.io/
 - 🛰️ Let's build something that lasts.
 ---
 
