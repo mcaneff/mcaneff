@@ -30,7 +30,6 @@ I'm an Aerospace Engineering Master's student with a background in Computer Engi
 
 ### Contact Me
 - 🌐 Portfolio: https://mcaneff.github.io/
-- 🛰️ Let's build something that lasts.
 ---
 
 Whatever you can do, or dream you can, begin it. - W. H. Murray
